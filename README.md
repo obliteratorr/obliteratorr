@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @obliteratorr
+- 👀 I’m interested in exploring
+- 🌱 I’m currently learning python, go, rust
+- 💞️ I’m looking to collaborate on telegram bots.
+- 📫 How to reach me - None
